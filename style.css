@@ -1,0 +1,33 @@
+.navbar-nav.mr-auto .nav-item.active .nav-link {
+    color: gold;
+
+}
+.navbar.navbar-expand-lg.navbar-light.bg-light {
+    background-color: black;
+}
+.card.col-md-4.col-lg-12 .card-body .btn.btn-primary {
+    background-color: black;
+    color: gold;
+}
+
+#accordion1 .card #headingOne1 {
+    background-color: black;
+}
+#accordion1 .card #headingTwo1 {
+    background-color: black;
+}
+#accordion1 .card #headingThree1 {
+    background-color: black;
+}
+#headingOne1 .mb-0 a {
+    color: gold;
+}
+#headingTwo1 .mb-0 .collapsed {
+    color: gold;
+}
+#headingThree1 .mb-0 .collapsed {
+    color: gold;
+}
+footer .row .col-lg-3 {
+    color: gold;
+}
